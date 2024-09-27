@@ -35,8 +35,6 @@
     <img src="https://img.shields.io/badge/Firewall-FFA500?style=for-the-badge&logo=fortinet&logoColor=white" alt="Firewall" />
 </p>
 
----
-
 <h2 align="center">📊 Estatísticas 📊</h2>
 
 <p align="center">
