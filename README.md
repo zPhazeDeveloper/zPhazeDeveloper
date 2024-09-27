@@ -15,10 +15,8 @@
 <h2 align="center">🛠️ Tecnologias e Ferramentas 🛠️</h2>
 
 <p align="center">
-    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
 </p>
-
----
 
 <h2 align="center">🚀 Uma Nova Jornada, 27/09/2024! 🚀</h2>
 
@@ -48,8 +46,6 @@
 <p align="center" style="text-align: justify;">
     Este repositório será um reflexo do meu progresso contínuo, um lugar onde irei documentar meus avanços, desafios superados e novas habilidades adquiridas. Se você, assim como eu, acredita na transformação através do esforço e disciplina, fique por perto. Grandes projetos estão por vir, e estou pronto para abraçar tudo o que essa nova fase tem a oferecer.
 </p>
-
----
 
 <h2 align="center">📬 Entre em Contato 📬</h2>
 
