@@ -15,52 +15,41 @@
 <h2 align="center">🛠️ Tecnologias e Ferramentas 🛠️</h2>
 
 <p align="center">
-    <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-    <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
-    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
+---
 
-<h2 align="center">🖥️ Desenvolvimento e Cibersegurança 🖥️</h2>
-
-<p align="center">
-    <img src="https://img.shields.io/badge/Cyber%20Security-FF5733?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Cyber Security" />
-    <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
-    <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
-    <img src="https://img.shields.io/badge/Pentesting-430098?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Pentesting" />
-    <img src="https://img.shields.io/badge/Firewall-FFA500?style=for-the-badge&logo=fortinet&logoColor=white" alt="Firewall" />
-</p>
-
-<h2 align="center">📊 Estatísticas 📊</h2>
-
-<p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=zPhazeDeveloper&theme=dark" alt="GitHub Streak Stats" width="70%">
-</p>
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zPhazeDeveloper&layout=compact&theme=dark" alt="Linguagens Mais Usadas" width="50%">
-</p>
-
-<h2 align="center">📚 Áreas de Especialização 📚</h2>
+<h2 align="center">🚀 Uma Nova Jornada, 27/09/2024! 🚀</h2>
 
 <p align="center" style="text-align: justify;">
-    • Desenvolvimento de Software: Criação de soluções eficientes e seguras em Python, Lua(U), C++, C# e JavaScript. <br>
-    • Cibersegurança: Implementação de práticas de segurança, testes de penetração e análise de tráfego de rede com ferramentas como Wireshark e técnicas de pentesting. <br>
-    • Automação de Processos: Desenvolvimento de scripts em Bash e Lua para automação de tarefas e integração de processos. <br>
-    • Infraestrutura de TI: Configuração de servidores Linux, gerenciamento de contêineres Docker e utilização de Git para controle de versão.
+    Em 27 de Setembro de 2024, após uma longa batalha com a procrastinação e a autossabotagem, tomei a decisão de reiniciar minha jornada na programação. Não foi uma decisão fácil, mas era necessária. Olhar para trás e reconhecer os erros, as pausas e os momentos de distração foi um passo fundamental para dar a volta por cima. É com esse aprendizado que agora retorno, mais forte, mais determinado e com um foco que nunca tive antes.
 </p>
 
-
-<h2 align="center">🎨 Ferramentas de Design 🎨</h2>
-
-<p align="center">
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-    <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="Photoshop" />
+<p align="center" style="text-align: justify;">
+    A vida nos desafia de muitas formas, e o tempo que perdemos não pode ser recuperado. Mas cada queda é uma oportunidade para recomeçar, para nos levantarmos com mais sabedoria e força. Essa jornada não é apenas sobre código, desenvolvimento ou segurança cibernética; é sobre superar as minhas próprias barreiras e me tornar a melhor versão de mim mesmo, tanto profissionalmente quanto pessoalmente.
 </p>
+
+<p align="center" style="text-align: justify;">
+    Hoje, eu escolho voltar ao caminho que me desafia, mas que também me realiza. Estou mais preparado do que nunca para enfrentar o que vier, e tenho clareza de onde quero chegar. Meus passos estão focados em quatro grandes áreas:
+</p>
+
+<ul align="center">
+    <li><b>Desenvolvimento de Jogos</b></li>
+    <li><b>Desenvolvimento de Softwares</b></li>
+    <li><b>Desenvolvimento de Sites (Back-End)</b></li>
+    <li><b>Segurança Cibernética (Pentest)</b></li>
+</ul>
+
+<p align="center" style="text-align: justify;">
+    Não será uma jornada fácil, mas estou comprometido em fazer diferente dessa vez. Volto com uma mentalidade transformada, entendendo que as pequenas conquistas diárias me levarão ao grande objetivo final. Cada linha de código que escrever, cada novo conceito que aprender, será um passo na direção de algo maior. Agora, não há espaço para dúvidas; o foco está em construir uma base sólida para o futuro.
+</p>
+
+<p align="center" style="text-align: justify;">
+    Este repositório será um reflexo do meu progresso contínuo, um lugar onde irei documentar meus avanços, desafios superados e novas habilidades adquiridas. Se você, assim como eu, acredita na transformação através do esforço e disciplina, fique por perto. Grandes projetos estão por vir, e estou pronto para abraçar tudo o que essa nova fase tem a oferecer.
+</p>
+
+---
 
 <h2 align="center">📬 Entre em Contato 📬</h2>
 
