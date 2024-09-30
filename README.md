@@ -1,6 +1,6 @@
 <h1 align="center">👨‍💻 Olá! Eu sou o zPhaze 👨‍💻</h1>
 
-<p align="center">  
+<p align="center"> 
     <a href="https://www.tiktok.com/@phaze.dev" target="_blank">
         <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok">
     </a> 
