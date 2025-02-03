@@ -32,9 +32,7 @@
   Estou sempre aberto para novas parcerias, ideias ou até mesmo para trocar experiências sobre programação e desenvolvimento de jogos no Roblox. Se você quer colaborar ou bater um papo, não hesite em me procurar! 💬
 </p>
 <p align="center">
-  Discord: zphaze.dev<br>
-  Tiktok: phaze.dev<br>
-  Email: phaze@exemplo.com
+  Discord: gnzoficial<br>
 </p>
 
 <div align="center">
