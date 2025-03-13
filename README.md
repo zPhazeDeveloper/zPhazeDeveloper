@@ -16,7 +16,7 @@ Desenvolvedor Python iniciante, sempre aprendendo e praticando! 🚀
 ## 🛠 Ferramentas
 ![VS Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=0D1117)
 
-## 🌍 Me encontre
+## 🌍 Fale comigo
 - **Discord**: [@zphaze.dev](https://discord.com/users/zphaze.dev)
 - **YouTube**: [@PhazeDeveloper](https://www.youtube.com/@PhazeDeveloper)
 - **TikTok**: [@phaze.dev](https://www.tiktok.com/@phaze.dev)
